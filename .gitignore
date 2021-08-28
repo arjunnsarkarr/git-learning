@@ -1,1 +1,7 @@
 mylogs.log
+
+*.log #for all files ending with .log
+
+
+log/ #for whole folder named log 
+
